@@ -16,7 +16,7 @@ Site: [book.trinthlo.com](https://book.trinthlo.com)
 
 An e-commerce application that extends Foundation into a substantially larger system. It demonstrates how the same starting architecture can support products, shopping, and transactional functionality while keeping those concerns outside the reusable Foundation core.
 
-Site: maisies.trinthlo.com (launching soon)
+Site: [maisies.trinthlo.com](https://maisies.trinthlo.com)
 
 ## Why these examples matter
 
