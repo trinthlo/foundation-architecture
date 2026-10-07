@@ -2,7 +2,7 @@
 
 **A reusable starting point for custom web applications**
 
-Foundation is the application base I have developed and refined over years of building custom websites and business applications. Its purpose is straightforward: provide the common functionality I am likely to need on a new project so I can concentrate on the functionality that makes that project unique.
+Foundation is the application base Trinthlo uses as the starting point for its web projects, developed and refined over many years of building custom websites and business applications. Its purpose is straightforward: provide the common functionality a new project is likely to need, so development can concentrate on the functionality that makes that project unique.
 
 Foundation is not an open-source framework. The production source code is proprietary and is **not included in this repository**. This repository documents the architecture, purpose, and evolution of the system.
 
@@ -10,7 +10,7 @@ Foundation is not an open-source framework. The production source code is propri
 
 ### Customer accounts
 
-Many of the applications I build require some form of customer or user account. Foundation provides that starting point, including:
+Many of the applications we build require some form of customer or user account. Foundation provides that starting point, including:
 
 - Customer records and contact information
 - Customer authentication and sign-in
@@ -40,7 +40,7 @@ Foundation also provides common administrative functionality, including:
 
 These capabilities provide a consistent base that can be extended as a project's requirements grow.
 
-## How I use Foundation
+## How we use Foundation
 
 Foundation is a starting point, not the finished application.
 
@@ -87,7 +87,7 @@ These projects illustrate the reason Foundation exists: the same common starting
 
 The current Foundation codebase is a ColdFusion/CFML application with a structured separation of application concerns, including controllers, data-access objects, models, validation, views, utilities, configuration, and application assets.
 
-The implementation has evolved over time as I have reused it on new projects and refined the common functionality.
+The implementation has evolved over time as it has been reused on new projects and its common functionality refined.
 
 ## Further reading
 
@@ -96,12 +96,12 @@ The implementation has evolved over time as I have reused it on new projects and
 
 ## Source availability
 
-Foundation is part of my private development toolkit. Its production source code and implementation details are not published in this repository.
+Foundation is part of Trinthlo's private development toolkit. Its production source code and implementation details are not published in this repository.
 
 Public code examples may be provided separately where they can demonstrate individual techniques without exposing Foundation or client source code.
 
 ## About
 
-I am a senior web developer with decades of experience building and maintaining custom websites and business applications, with particular experience in ColdFusion/CFML, SQL Server, e-commerce, payment processing, third-party integrations, and legacy application modernization.
+Foundation is a [Trinthlo](https://github.com/trinthlo) project, developed and maintained by [David Mason](https://github.com/david-mason-2364), a senior web developer with approximately 30 years of experience building and maintaining custom websites and business applications, with particular experience in ColdFusion/CFML, SQL Server, e-commerce, payment processing, third-party integrations, and legacy application modernization.
 
 More information: [trinthlo.com](https://trinthlo.com)
