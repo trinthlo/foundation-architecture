@@ -60,7 +60,7 @@ Foundation is a starting point, not the finished application.
                                     |
           +-------------------------+-------------------------+
           |                         |                         |
-     trinthlo.com           book.trinthlo.com             Maisie's
+       Trinthlo                   Books                    Maisie's
      Professional            Novel-management          Full e-commerce
        website                 application               application
 ```
